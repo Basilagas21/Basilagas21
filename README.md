@@ -1,9 +1,12 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 ## Hi there 👋 I'm Basil Agas
-
-
+<p align="center">
+  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="=700">
+</p>
 
 <p align="center">
-  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="=900">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
 </p>
 
 ### 🌐 Connect With Me
@@ -29,7 +32,7 @@
   </a>
 </p>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 💻 Programming Languages
 
@@ -53,8 +56,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
 </p>
+<!-- GitHub Stats (Optional - you might want to add these later once you have more activity) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 🗣️ Spoken Languages
 
@@ -75,8 +84,8 @@
   </table>
 </p>
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
----
 ## 🙋 About Me
 
 ### 🤖 AI Developer & Automation Architect
@@ -102,48 +111,12 @@ My focus is on the practical application and creation of intelligent systems. I'
 -   📈 **Machine Learning Fundamentals:** Continuously strengthening my core knowledge to build more powerful models.
 -   🛠️ **Expanding the Toolkit:** Actively seeking out, collecting, experimenting all the available AI tool I can get my hands on.
 
-
----
-
-<!-- GitHub Stats (Optional - you might want to add these later once you have more activity) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
 ### 🔋 Downtime Protocols
 
 When I'm not training models or architecting systems, you can find me:
 
--   🎮 Dominating in the virtual world.
--   💰 Exploring the intersection of AI and Entrepreneurship.
+-   🎮 Being a gamer.
+-   💰 Exploring the of AI and Entrepreneurship.
 -   🏋️😤💪🖤🎧
-
-
-<!-- ### 💻 What I'm Currently Working On
-
-### My Ultimate Goal
-
--   **[Current Project 1 Name]:** Building a [brief description, e.g., "full-stack e-commerce platform using Python and Django"]. Check it out [here](https://github.com/your-username/your-repo-link)!
--   **[Current Project 2 Name (if any)]:** Exploring [brief description, e.g., "game development with Unity and C#"].
--   **University Coursework I took and taking:** 
-    1. FYP
-    2. Applied
-    2. Cloud Computing
-    3. Big Data Architecture and Application
-    4.  -->
-
----
-
-<!-- ### 🌱 I'm Currently Learning -->
-
-<!-- Put the images to quickly describe it -->
-
----
 
 
