@@ -1,5 +1,11 @@
 ## Hi there 👋 I'm Basil Agas
 
+
+
+<p align="center">
+  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="500">
+</p>
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -40,15 +46,9 @@ I'm a Malaysian student who study at **Swinburne University**. As you can see, I
 
 ---
 
-### 💻 What I'm Currently Working On
+<!-- ### 💻 What I'm Currently Working On
 
 ### My Ultimate Goal
-
-
-<p align="center">
-  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="500">
-</p>
-
 
 -   **[Current Project 1 Name]:** Building a [brief description, e.g., "full-stack e-commerce platform using Python and Django"]. Check it out [here](https://github.com/your-username/your-repo-link)!
 -   **[Current Project 2 Name (if any)]:** Exploring [brief description, e.g., "game development with Unity and C#"].
@@ -57,11 +57,11 @@ I'm a Malaysian student who study at **Swinburne University**. As you can see, I
     2. Applied
     2. Cloud Computing
     3. Big Data Architecture and Application
-    4. 
+    4.  -->
 
 ---
 
-### 🌱 I'm Currently Learning
+<!-- ### 🌱 I'm Currently Learning -->
 
 <!-- Put the images to quickly describe it -->
 
