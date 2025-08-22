@@ -77,20 +77,40 @@
 
 
 ---
-### 🙋 About Me
+## 🙋 About Me
 
-> AI and Automation <3
-> 🎓 Swinburne University Student
-> Aspiring AI Developer and Machine Learning Creator 
-> Deep Learning, Natural Language Processing, AI Ethics, Data Structures & Algorithms, Web Development, Machine Learning Fundamentals
+### 🤖 AI Developer & Automation Architect
 
-I'm a Malaysian student who study at **Swinburne University**. As you can see, I'm lazy, and that's the core of a programmer that I am. Yes, very peak. And that's where I got my hunger from. To learn and to rule the world one day! I'm joking, but hey 
+> 🎓 Swinburne University Student | Machine Learning Creator | Efficiency Evangelist
 
--   🌱 Currently focused on **AI Agents | Workflow Automation and Management with AI Agents | Machine Learning Fundamentals | I NEED MORE AI TOOLS!**.
-<!-- -   🤝 Always eager to collaborate on **[Types of projects I'm interested in like open-source contributions, hackathon projects, academic research]**. -->
--   🌍 When I'm not coding or studying, you might find me **gaming 🎮, hiking ⛰️, learning to build bussiness 💰, reading sci-fi novels 📚**.
+I'm a Malaysian student at Swinburne University on a mission to build the future of intelligent automation. My core philosophy is that the best programmers are driven by a desire for efficiency—a "laziness" that sparks a hunger to create systems that think, learn, and execute tasks flawlessly. This is the energy I bring to my work in AI and machine learning.
+
+My areas of fascination include:
+-   🧠 **Deep Learning & NLP:** Crafting models that can understand and generate human language.
+-   ⚖️ **AI Ethics:** Ensuring the intelligent systems we build are fair, transparent, and beneficial.
+-   ⚙️ **Core Engineering:** Mastering Data Structures, Algorithms, and Web Development to build robust platforms for AI.
 
 ---
+
+### 🚀 Current Mission: Building with AI
+
+My focus is on the practical application and creation of intelligent systems. I'm currently diving deep into:
+
+-   🤖 **Autonomous AI Agents:** Exploring how agents can manage complex workflows and make independent decisions.
+-   ⚡ **Workflow Automation:** Designing AI-powered pipelines to streamline and optimize processes.
+-   📈 **Machine Learning Fundamentals:** Continuously strengthening my core knowledge to build more powerful models.
+-   🛠️ **Expanding the Toolkit:** Actively seeking out and experimenting with the next wave of revolutionary AI tools.
+
+---
+
+### 🔋 Downtime Protocols
+
+When I'm not training models or architecting systems, you can find me:
+
+-   🎮 Dominating in the virtual world.
+-   ⛰️ Decompressing on a hiking trail.
+-   💰 Exploring the intersection of AI and Entrepreneurship.
+-   📚 Getting lost in the pages of a great sci-fi novel.
 
 <!-- ### 💻 What I'm Currently Working On
 
