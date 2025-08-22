@@ -11,6 +11,8 @@
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
+
+
 <a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
 <a href="https://facebook.com/YOUR_PROFILE_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
@@ -23,9 +25,6 @@
 &nbsp;
 <a href="https://discord.com/users/YOUR_USER_ID_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="35" /></a>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -64,12 +63,18 @@
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<div align="center">
+<!-- The Github Stats -->
+	<p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" width="49%"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" width="49%" />
+	  <br/><br/>
+	  <a href="https://git.io/streak-stats">
+	    <img src="https://streak-stats.demolab.com?user=Basilagas21&theme=dark" alt="GitHub Streak" />
+	  </a>
+	</p>
+</div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
