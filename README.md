@@ -31,25 +31,66 @@
 
 ---
 
+### 💻 Programming Languages
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+### 🗣️ Spoken Languages
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://flagcdn.com/w40/gb.png" alt="English Flag" width="40"/>
+        <br/>
+        <b>English</b>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w40/my.png" alt="Malay Flag" width="40"/>
+        <br/>
+        <b>Malay</b>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+---
 ### 🙋 About Me
-
-## My Language
-
-
 
 > AI and Automation <3
 > 🎓 Swinburne University Student
 > Aspiring AI Developer and Machine Learning Creator 
 > Deep Learning, Natural Language Processing, AI Ethics, Data Structures & Algorithms, Web Development, Machine Learning Fundamentals
 
-I'm a Malaysian student who study at **Swinburne University**. As you can see, I'm lazy, and that's the core of a programmer that I am. Yes, very peak. And that's where I got my hunger from. To learn and to rule the world one day! I'm joking, but hey, I want to be like Jin Woo too. Just with...AI
+I'm a Malaysian student who study at **Swinburne University**. As you can see, I'm lazy, and that's the core of a programmer that I am. Yes, very peak. And that's where I got my hunger from. To learn and to rule the world one day! I'm joking, but hey 
 
 -   🌱 Currently focused on **AI Agents | Workflow Automation and Management with AI Agents | Machine Learning Fundamentals | I NEED MORE AI TOOLS!**.
 <!-- -   🤝 Always eager to collaborate on **[Types of projects I'm interested in like open-source contributions, hackathon projects, academic research]**. -->
 -   🌍 When I'm not coding or studying, you might find me **gaming 🎮, hiking ⛰️, learning to build bussiness 💰, reading sci-fi novels 📚**.
 
 ---
-
 
 <!-- ### 💻 What I'm Currently Working On
 
