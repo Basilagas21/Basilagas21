@@ -1,19 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Basil Agas
+
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="120" style="border-radius: 50%;">
+  <a href="https://youtube.com/c/YOUR_CHANNEL_HERE">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE_HERE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://open.spotify.com/user/YOUR_USER_ID_HERE">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://discord.com/users/YOUR_USER_ID_HERE">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
-## 👋 Hi there, future innovator! I'm [Your Name]
-
-> 🎓 University Student | Aspiring [Your Major/Field] Developer | Problem Solver
-
 ---
 
-### 🚀 About Me
+### 🙋 About Me
 
-I'm a passionate university student diving deep into the world of **[Your Major, e.g., Computer Science, Software Engineering]** at **[Your University Name]**. I love exploring how technology can solve real-world problems and bring creative ideas to life. My journey is all about learning, building, and pushing the boundaries of what's possible!
+> AI and Automation <3 |🎓 Swinburne University Student | Aspiring AI Developer and Machine Learning Creator | Secretly owns AI agent armies
+> 
+I'm a passionate Swinburne university student diving deep into the world of **[Your Major, e.g., Computer Science, Software Engineering]** at **[Your University Name]**. I love exploring how technology can solve real-world problems and bring creative ideas to life. My journey is all about learning, building, and pushing the boundaries of what's possible!
 
 -   🌱 Currently focused on **[Specific Course/Technology you're excited about, e.g., Data Structures & Algorithms, Web Development with React, Machine Learning Fundamentals]**.
 -   🤝 Always eager to collaborate on **[Types of projects you're interested in, e.g., open-source contributions, hackathon projects, academic research]**.
