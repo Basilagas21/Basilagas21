@@ -98,7 +98,7 @@ My areas of fascination include:
 -   ⚖️ **AI Ethics:** Ensuring the intelligent systems we build are fair, transparent, and beneficial.
 -   ⚙️ **Core Engineering:** Mastered Data Structures, Algorithms, and Web Development to build robust platforms for AI.
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 🚀 Current Mission: Building with AI Army
 The dream:
@@ -113,6 +113,8 @@ My focus is on the practical application and creation of an ecosystem of intelli
 -   ⚡ **Workflow Automation:** Designing AI-powered pipelines to streamline and optimize processes.
 -   📈 **Machine Learning Fundamentals:** Continuously strengthening my core knowledge to build more powerful models.
 -   🛠️ **Expanding the Toolkit:** Actively seeking out, collecting, experimenting all the available AI tool I can get my hands on.
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 🔋 Downtime Protocols
 
@@ -131,9 +133,3 @@ When I'm not training models or architecting systems, you can find me:
 	</picture>
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-<h2><a id="graph"></a>📈 Contributions Graph</h2>  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Basilagas21&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
