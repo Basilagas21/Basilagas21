@@ -69,7 +69,7 @@ I'm a Malaysian student who study at **Swinburne University**. As you can see, I
 
 <!-- GitHub Stats (Optional - you might want to add these later once you have more activity) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
 </p>
