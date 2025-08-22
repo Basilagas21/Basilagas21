@@ -81,25 +81,38 @@
 
 ### 🤖 AI Developer & Automation Architect
 
-> 🎓 Swinburne University Student | Machine Learning Creator | Efficiency Evangelist
+> 🎓 Swinburne University Student | AI and Machine Learning Enthusiast | The Jin Woo to the AI army |Efficiency Evangelist
 
-I'm a Malaysian student at Swinburne University on a mission to build the future of intelligent automation. My core philosophy is that the best programmers are driven by a desire for efficiency—a "laziness" that sparks a hunger to create systems that think, learn, and execute tasks flawlessly. This is the energy I bring to my work in AI and machine learning.
+I'm a Malaysian student at Swinburne University on a mission to build the future of intelligent automation. My core philosophy is that the best programmers are driven by a desire for efficiency. "Laziness" sparked a hunger in me to create systems that think, learn, and execute tasks flawlessly. Just like Jin Woo, the power shall scale based on the difficulty and the peers that I'm overcoming
 
 My areas of fascination include:
+-   💂 **AI Agents:** Intersting autonomous systems that perceive, decide, and act within environments to achieve goals without continuous human control.
 -   🧠 **Deep Learning & NLP:** Crafting models that can understand and generate human language.
 -   ⚖️ **AI Ethics:** Ensuring the intelligent systems we build are fair, transparent, and beneficial.
--   ⚙️ **Core Engineering:** Mastering Data Structures, Algorithms, and Web Development to build robust platforms for AI.
+-   ⚙️ **Core Engineering:** Mastered Data Structures, Algorithms, and Web Development to build robust platforms for AI.
 
 ---
 
-### 🚀 Current Mission: Building with AI
+### 🚀 Current Mission: Building with AI Army
 
 My focus is on the practical application and creation of intelligent systems. I'm currently diving deep into:
 
 -   🤖 **Autonomous AI Agents:** Exploring how agents can manage complex workflows and make independent decisions.
 -   ⚡ **Workflow Automation:** Designing AI-powered pipelines to streamline and optimize processes.
 -   📈 **Machine Learning Fundamentals:** Continuously strengthening my core knowledge to build more powerful models.
--   🛠️ **Expanding the Toolkit:** Actively seeking out and experimenting with the next wave of revolutionary AI tools.
+-   🛠️ **Expanding the Toolkit:** Actively seeking out, collecting, experimenting all the available AI tool I can get my hands on.
+
+
+---
+
+<!-- GitHub Stats (Optional - you might want to add these later once you have more activity) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
 
@@ -108,9 +121,9 @@ My focus is on the practical application and creation of intelligent systems. I'
 When I'm not training models or architecting systems, you can find me:
 
 -   🎮 Dominating in the virtual world.
--   ⛰️ Decompressing on a hiking trail.
 -   💰 Exploring the intersection of AI and Entrepreneurship.
--   📚 Getting lost in the pages of a great sci-fi novel.
+-   🏋️😤💪🖤🎧
+
 
 <!-- ### 💻 What I'm Currently Working On
 
@@ -133,12 +146,4 @@ When I'm not training models or architecting systems, you can find me:
 
 ---
 
-<!-- GitHub Stats (Optional - you might want to add these later once you have more activity) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-> "The only way to do great work is to love what you do." - Steve Jobs
 
