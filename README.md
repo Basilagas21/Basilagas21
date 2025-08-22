@@ -32,6 +32,11 @@
 
 I'm a passionate Swinburne university student diving deep into the world of **[Your Major, e.g., Computer Science, Software Engineering]** at **[Your University Name]**. I love exploring how technology can solve real-world problems and bring creative ideas to life. My journey is all about learning, building, and pushing the boundaries of what's possible!
 
+My Ultimate Goal:
+
+![My awesome logo](Images/JinWoo.jpeg)
+
+
 -   🌱 Currently focused on **[Specific Course/Technology you're excited about, e.g., Data Structures & Algorithms, Web Development with React, Machine Learning Fundamentals]**.
 -   🤝 Always eager to collaborate on **[Types of projects you're interested in, e.g., open-source contributions, hackathon projects, academic research]**.
 -   🌍 When I'm not coding or studying, you might find me **[A hobby or interest, e.g., gaming 🎮, hiking ⛰️, playing guitar 🎸, reading sci-fi novels 📚]**.
