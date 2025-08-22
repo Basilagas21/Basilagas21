@@ -88,6 +88,18 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+ <!-- Snake Eating My Contributions -->
+<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-snake-dark.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-snake.svg">
+	  <img alt="github snake animation" src="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-snake.svg">
+	</picture>
+</p>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <h1><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me </h1>
 
 I'm a Malaysian student at Swinburne University on a mission to build the future of intelligent automation. My core philosophy is that the best programmers are driven by a desire for efficiency. "Laziness" sparked a hunger in me to create systems that think, learn, and execute tasks flawlessly. Just like Jin Woo, the power shall scale based on the difficulty and the peers that I'm overcoming
@@ -106,7 +118,6 @@ The dream:
   <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="=700">
 </p>
 
-
 My focus is on the practical application and creation of an ecosystem of intelligence capable of autonomy. What I'm digging:
 
 -   🤖 **Autonomous AI Agents:** Exploring how agents can manage complex workflows and make independent decisions.
@@ -124,12 +135,5 @@ When I'm not training models or architecting systems, you can find me:
 -   💰 Exploring the of AI and Entrepreneurship.
 -   🏋️😤💪🖤🎧
 
-<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Basilagas21/Basilagas21/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
-
+                                                                                                  
+                                                                                                  
