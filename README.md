@@ -2,7 +2,7 @@
 <h1 id="top" align="center">Hi, I'm Basil Agas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=The+Sung+Jin+Woo+of+AI+Agents;A+builder+of+Intelligence;AI+Architect" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&vCenter=true&width=425&lines=The+Sung+Jin+Woo+of+AI+Agents;A+builder+of+Intelligence;AI+Architect" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
