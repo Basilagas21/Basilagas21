@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="500">
+  <img src="Images/JinWoo.jpeg" alt="A centered and resized screenshot" width="=900">
 </p>
 
 ### 🌐 Connect With Me
