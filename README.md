@@ -41,7 +41,7 @@ I'm a passionate Swinburne university student diving deep into the world of **[Y
 ### 💻 What I'm Currently Working On
 
 My ultimate goal:
-![]()
+![](Images/JinWoo)
 
 -   **[Current Project 1 Name]:** Building a [brief description, e.g., "full-stack e-commerce platform using Python and Django"]. Check it out [here](https://github.com/your-username/your-repo-link)!
 -   **[Current Project 2 Name (if any)]:** Exploring [brief description, e.g., "game development with Unity and C#"].
