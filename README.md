@@ -33,18 +33,23 @@
 
 ### 🙋 About Me
 
+## My Language
+
+
+
 > AI and Automation <3
 > 🎓 Swinburne University Student
 > Aspiring AI Developer and Machine Learning Creator 
 > Deep Learning, Natural Language Processing, AI Ethics, Data Structures & Algorithms, Web Development, Machine Learning Fundamentals
 
-I'm a Malaysian student who study at **Swinburne University**. As you can see, I'm lazy, and that's the core of a programmer that I am. Yes, very peak. And that's where I got my hunger from. To learn and to rule the world one day! I'm joking, but hey 
+I'm a Malaysian student who study at **Swinburne University**. As you can see, I'm lazy, and that's the core of a programmer that I am. Yes, very peak. And that's where I got my hunger from. To learn and to rule the world one day! I'm joking, but hey, I want to be like Jin Woo too. Just with...AI
 
 -   🌱 Currently focused on **AI Agents | Workflow Automation and Management with AI Agents | Machine Learning Fundamentals | I NEED MORE AI TOOLS!**.
 <!-- -   🤝 Always eager to collaborate on **[Types of projects I'm interested in like open-source contributions, hackathon projects, academic research]**. -->
 -   🌍 When I'm not coding or studying, you might find me **gaming 🎮, hiking ⛰️, learning to build bussiness 💰, reading sci-fi novels 📚**.
 
 ---
+
 
 <!-- ### 💻 What I'm Currently Working On
 
