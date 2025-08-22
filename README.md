@@ -67,12 +67,22 @@
 <div align="center">
 <!-- The Github Stats -->
 	<p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" width="49%"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basilagas21&layout=compact&theme=dark" alt="Top Languages" width="49%" />
-	  <br/><br/>
-	  <a href="https://git.io/streak-stats">
-	    <img src="https://streak-stats.demolab.com?user=Basilagas21&theme=dark" alt="GitHub Streak" />
-	  </a>
+	  <p align="center">
+    <!-- GitHub Stats Card -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Basilagas21&show_icons=true&hide_title=true&hide_border=true&theme=transparent&title_color=9f4bff&icon_color=9f4bff&text_color=9f4bff&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
+    <!-- Streak Stats Card -->
+    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Basilagas21&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&ring=9f4bff&fire=9f4bff&currStreakNum=9f4bff&sideNums=9f4bff&currStreakLabel=9f4bff&sideLabels=9f4bff" alt="streak stats" title="streak stats" />
+</p>
+
+<p align="center">
+    <!-- Activity Graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Basilagas21&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&color=9f4bff&line=9f4bff&point=c792ea" alt="activity graph" title="activity graph"/>
+</p>
+
+<p align="center">
+    <!-- Profile Trophy -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Basilagas21&no-bg=true&no-frame=true&theme=dracula&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
+</p>
 	</p>
 </div>
 
