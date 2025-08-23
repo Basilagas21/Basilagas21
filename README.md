@@ -78,7 +78,6 @@
     <!-- Activity Graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Basilagas21&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph&color=9f4bff&line=9f4bff&point=c792ea" alt="activity graph" title="activity graph"/>
 </p>
-
 <p align="center">
     <img width="800" src="https://trophy.luis.fyi/?username=Basilagas21&no-bg=true&no-frame=true&theme=dracula&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
 </p>
