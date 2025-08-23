@@ -80,8 +80,7 @@
 </p>
 
 <p align="center">
-    <!-- Profile Trophy -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Basilagas21&no-bg=true&no-frame=true&theme=dracula&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
+    <img width="800" src="https://trophy.luis.fyi/?username=Basilagas21&no-bg=true&no-frame=true&theme=dracula&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
 </p>
 	</p>
 </div>
