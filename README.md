@@ -88,6 +88,11 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+<h2><a id="snake"></a> My Contributions</h2> 
+<p align="center">
+	<p><img align="center" src="https://github.com/Basilagas21/Basilagas21/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" ></p>
+</p>
+
  <!-- Snake Eating My Contributions -->
 <h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
 <p align="center">
