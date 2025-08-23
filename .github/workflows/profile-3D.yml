@@ -8,8 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # This line grants the necessary write permission
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
