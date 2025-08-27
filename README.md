@@ -13,17 +13,13 @@
 
 
 
-<a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/basil-agas-449419245/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://facebook.com/YOUR_PROFILE_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
+<a href="https://www.facebook.com/profile.php?id=100069125812358" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
 &nbsp;
-<a href="https://wa.me/YOUR_NUMBER_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+<a href="https://www.instagram.com/chonkduckism/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
-<a href="https://t.me/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
-&nbsp;
-<a href="https://instagram.com/YOUR_USERNAME_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
-&nbsp;
-<a href="https://discord.com/users/YOUR_USER_ID_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 &nbsp;
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
