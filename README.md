@@ -111,6 +111,17 @@ My areas of fascination include:
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+## 🌟 Featured Projects
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| [SmartGov Malaysia AI Price Tracker](https://github.com/Basilagas21/SmartGov-Malaysia-AI-Price-Tracker) | Tracks and predicts price movements and regional disparities of essential goods in Malaysia | Python, Random Forest |
+| [Cross-Domain Plant Identification](https://github.com/Basilagas21/Cross-Domain-Plant-Identification) | Transfers knowledge from herbarium sheet images to field images for species identification | Python, PyTorch |
+| [Multi-Class Bird Classification](https://github.com/Basilagas21/MultiClass-Birb-Classification) | Classifies 200 bird species using the CUB-200 dataset | Python, PyTorch |
+| [Image Classification with Supervised ML](https://github.com/Basilagas21/COITAI_Image_Classification_with_Supervised_Machine_Learning) | Supervised learning approach to image classification | Python |
+ 
+### If interested, visit view all the projects I have done in the repository section.
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ### 🚀 Current Mission: Building with AI Army
